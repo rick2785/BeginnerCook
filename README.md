@@ -1,0 +1,1 @@
+BeginnerCook is app that shows a list of available herbs. Whenever the user taps one of the images in the list; a view controller sports a background, title, description and some buttons to credit the image owner. I created a custom presentation controller with animations using Fade, Pop, and Dismiss transitions.
